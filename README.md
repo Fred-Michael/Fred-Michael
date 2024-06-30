@@ -24,10 +24,10 @@ public class SoftwareDeveloper
 
     public static string AboutMe()
     {
-        return "I am a highly skilled and innovative Software Developer.
-                An expert in designing and developing cutting-edge, robust software solutions by leveraging the power of
-                the .NET ecosystem. Detail-oriented and committed to delivering high-quality software applications.
-                Collaborative and adaptable, with a strong grasp of the latest industry trends";
+        return "I am a highly skilled and innovative Software Developer. An expert in designing
+        and developing cutting-edge, robust software solutions by leveraging the power of the .NET ecosystem.
+        Detail-oriented and committed to delivering high-quality software applications.
+        Collaborative and adaptable with a strong grasp of the latest industry trends";
     }
 
     public static string LanguagesSpoken()
@@ -85,8 +85,7 @@ Tools
 <h3 align="center">GITHUB STATS</h3>
 <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=Fred-Michael&theme=calm&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Fred-Michael&theme=calm&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fred-Michael&theme=calm&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Fred-Michael&theme=calm&hide_border=false&include_all_commits=false&count_private=false)&nbsp;&nbsp;&nbsp;&nbsp;
+![](https://github-readme-streak-stats.herokuapp.com/?user=Fred-Michael&theme=calm&hide_border=false)
 
 [![](https://visitcount.itsvg.in/api?id=Fred-Michael&icon=0&color=0)](https://visitcount.itsvg.in)
