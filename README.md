@@ -82,21 +82,6 @@ Tools
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="center">CONNECT WITH ME</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/chinazor-okafor/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://x.com/iamILIBID">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  <a href="mailto:chinazorfredrick@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <h3 align="center">GITHUB STATS</h3>
 <br/>
 
