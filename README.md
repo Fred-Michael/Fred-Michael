@@ -10,7 +10,7 @@
 
 public class SoftwareDeveloper 
 {
-    public SoftwareEngineer() { }
+    public SoftwareDeveloper() { }
 
     public static string Name()
     {
