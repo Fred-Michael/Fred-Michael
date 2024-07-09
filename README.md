@@ -17,11 +17,6 @@ public class SoftwareDeveloper
         return "Chinazor Okafor";
     }
 
-    public static string Role()
-    {
-        return "Software Developer";
-    }
-
     public static string AboutMe()
     {
         return "I am a highly skilled and innovative Software Developer. An expert in designing
