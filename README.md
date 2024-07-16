@@ -20,9 +20,10 @@ public class SoftwareDeveloper
     public static string AboutMe()
     {
         return "I am a highly skilled and innovative Software Developer. An expert in designing
-        and developing cutting-edge, robust software solutions by leveraging the power of JavaScript frameworks, and the .NET ecosystem.
-        Detail-oriented and committed to delivering high-quality software applications.
-        Collaborative and adaptable with a strong grasp of the latest industry trends";
+        and developing cutting-edge, robust software solutions by leveraging
+        the power of JavaScript frameworks, and the .NET ecosystem. Detail-oriented and
+        committed to delivering high-quality software applications. Collaborative and adaptable
+        with a strong grasp of the latest industry trends";
     }
 
     public static string LanguagesSpoken()
