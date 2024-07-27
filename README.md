@@ -19,10 +19,9 @@ public class SoftwareDeveloper
 
     public static string AboutMe()
     {
-        return "I am a highly skilled and innovative Software Developer. An expert in designing
-        and developing cutting-edge, robust software solutions by leveraging
-        the power of JavaScript frameworks, and the .NET ecosystem. Detail-oriented and
-        committed to delivering high-quality software applications.";
+        return "I am a Full Stack developer leveraging JavaScript frameworks for frontend
+                and .NET for backend to build and maintain innovative software applications
+                that impact people's lives.";
     }
 
     public static string LanguagesSpoken()
