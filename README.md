@@ -14,7 +14,7 @@ public class FullStackDeveloper
 
     public static string Name()
     {
-        return "Chinazor Okafor";
+        return "Fredrick Okafor";
     }
 
     public static string AboutMe()
