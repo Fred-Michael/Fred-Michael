@@ -8,9 +8,9 @@
 
 ```csharp
 
-public class SoftwareDeveloper 
+public class FullStackDeveloper 
 {
-    public SoftwareDeveloper() { }
+    public FullStackDeveloper() { }
 
     public static string Name()
     {
